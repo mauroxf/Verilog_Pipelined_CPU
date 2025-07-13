@@ -1,6 +1,6 @@
 ## 3-Stage Pipelined RISC-V CPU (Verilog)
 
-This project implements a simplified 3-stage pipelined RISC-V CPU in Verilog, featuring fetch, decode, and execute stages.
+This project implements a 3-stage pipelined RISC-V CPU in Verilog with fetch, decode, and execute stages.
 
 ## File Structure
 
