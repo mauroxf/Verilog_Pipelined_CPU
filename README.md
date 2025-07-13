@@ -2,7 +2,7 @@
 
 This project implements a simplified 3-stage pipelined RISC-V CPU in Verilog, featuring fetch, decode, and execute stages.
 
-## Project Structure
+## File Structure
 
 - `src/`
   
