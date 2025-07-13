@@ -33,6 +33,9 @@ This project implements a simplified 3-stage pipelined RISC-V CPU in Verilog, fe
 
   → `waveform_cpu.png`  
     - Screenshot of signal waveforms from simulation
+      
+  → `REPORT.md`
+    - Project report page with notes
 
 ## Features
 
